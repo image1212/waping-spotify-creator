@@ -5,3 +5,4 @@ waping spotify creator source code
 - 2차 판매 금지
 - 스포티파이가 빨리 막길
 - spotify i want fast patch. 
+- spotify blocked ??
